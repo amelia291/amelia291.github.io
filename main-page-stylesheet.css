@@ -30,7 +30,7 @@ html {
     transform: translate(-50%, -55%);
     text-align: center;
 }
-.description h1, h2{
+.description h1, .description h2{
     color: white;
 }
 .about{
