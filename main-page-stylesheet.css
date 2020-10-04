@@ -128,14 +128,14 @@ ul{
 .page-footer{
     background-color: thistle;
     color: grey;
-    height: 200px;
+    height: 10%;
+    line-height: 20px;
     padding-right: 60px;
     padding-left: 60px;
-    position: fixed;
-    bottom: 0;
-    margin-top: auto;
+    margin-top: auto; 
     width: 100vw;
     display: block;
+    margin-bottom: 0;
 }
 .footer-copyright{
     color: #666;
